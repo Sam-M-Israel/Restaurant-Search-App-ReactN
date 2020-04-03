@@ -1,4 +1,4 @@
-# Restuarant-Search-App-ReactN
+# Restaurant-Search-App-ReactN
 A restaurant search app that lets you search for a specific dish in a city and will show you all the restaurants 
 in that city that serve the dish and separate those restaurants into price ranges.
 
